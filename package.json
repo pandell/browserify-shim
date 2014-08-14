@@ -42,5 +42,8 @@
     "rename-function-calls": "~0.1.0",
     "resolve": "~0.6.1",
     "through": "~2.3.4"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pandell.com"
   }
 }
